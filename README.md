@@ -14,7 +14,7 @@ This is a JavaScript Expense Tracker App.
 - JavaScript
 
 ## Live Demo
-(Add your Netlify link here)
+https://github.com/dipikachaudhari2530/expense-tracker.git
 
 ## Description
 Users can track their daily income and expenses. The app automatically calculates total balance and stores data in LocalStorage.
